@@ -18,7 +18,7 @@ To integrate `XMediatorIronSource` into your Xcode project using Swift Package M
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/x3mads/xmediator-ironsource-swift-package", exact: "9.6.00001")
+    .package(url: "https://github.com/x3mads/xmediator-ironsource-swift-package", exact: "9.6.10000")
 ]
 ```
 
